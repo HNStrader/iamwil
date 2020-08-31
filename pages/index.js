@@ -1,5 +1,4 @@
 import Head from 'next/head'
-import styles from 'assets/css/noscript.css'
 
 export default function Home() {
   return (

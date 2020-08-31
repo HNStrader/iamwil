@@ -6,10 +6,8 @@ export default function Home() {
 
 
 
-		<!-- Wrapper -->
 			<div id="wrapper">
 
-				<!-- Header -->
 					<header id="header" class="alt">
 						<a href="index.html" class="logo"><strong>Iam</strong> <span>Wil</span></a>
 						<nav>
@@ -17,8 +15,7 @@ export default function Home() {
 						</nav>
 					</header>
 
-				<!-- Menu -->
-					<nav id="menu">
+-					<nav id="menu">
 						<ul class="links">
 							<li><a href="index.html">Home</a></li>
 							<li><a href="landing.html">Landing</a></li>
@@ -31,7 +28,6 @@ export default function Home() {
 						</ul>
 					</nav>
 
-				<!-- Banner -->
 					<section id="banner" class="major">
 						<div class="inner">
 							<header class="major">
@@ -47,7 +43,6 @@ export default function Home() {
 						</div>
 					</section>
 
-				<!-- Main -->
 					<div id="main">
 
 						<!-- One -->
@@ -108,7 +103,6 @@ export default function Home() {
 								</article>
 							</section>
 
-						<!-- Two -->
 							<section id="two">
 								<div class="inner">
 									<header class="major">
@@ -123,7 +117,6 @@ export default function Home() {
 
 					</div>
 
-				<!-- Contact -->
 					<section id="contact">
 						<div class="inner">
 							<section>
@@ -176,7 +169,6 @@ export default function Home() {
 						</div>
 					</section>
 
-				<!-- Footer -->
 					<footer id="footer">
 						<div class="inner">
 							<ul class="icons">

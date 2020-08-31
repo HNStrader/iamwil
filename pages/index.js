@@ -45,7 +45,6 @@ export default function Home() {
 
 					<div id="main">
 
-						<!-- One -->
 							<section id="one" class="tiles">
 								<article>
 									<span class="image">
